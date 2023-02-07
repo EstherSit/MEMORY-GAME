@@ -1,6 +1,8 @@
 h1, h2{
     display: flex;
     justify-content: center;
+    color: rgb(199, 5, 5);
+    font-size: 40px;
 }
 
 p{
@@ -9,5 +11,9 @@ height: 400px;
 display: flex;
 flex-wrap: wrap;
 margin-left: 35%;
+}
+
+body{
+    background: url(https://i.pinimg.com/564x/b7/e7/8c/b7e78c49e3bfc3b204e84ead6a79d837.jpg);
 }
 
